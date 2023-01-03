@@ -1,6 +1,9 @@
-# Z I D E
- ZIDE  helps you develop JavaScript and HTML/CSS applications in the browser.
+# A D E X
+ A D E X  helps you develop JavaScript and HTML/CSS applications in the browser.
 
+#### Note:
+Google sign in and blogger are still in work.
+Google Analytics and FB Pixel will also be added soon.
 
 ## Key Features
 1. Lightweight.
